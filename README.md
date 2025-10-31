@@ -1,0 +1,1 @@
+This project is a learning project from the campus, which aims to improve the skills of fifth-semester students in the fields of electronic design and programming or IoT. In addition, it also improves teamwork skills because each person works on tasks that have been agreed upon by the team.
